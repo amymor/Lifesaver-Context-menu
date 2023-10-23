@@ -1,0 +1,13 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\directory\Background\Shell\Windows.newfolder]
+"CanonicalName"="{E44616AD-6DF1-4B94-85A4-E465AE8A19DB}"
+"MUIVerb"="@shell32.dll,-31236"
+"Icon"="shell32.dll,-16804"
+"Description"="@shell32.dll,-31237"
+"InvokeCommandOnSelection"=dword:00000000
+"ImpliedSelectionModel"=dword:00000004
+"CommandStateHandler"="{3756e7f5-e514-4776-a32b-eb24bc1efe7a}"
+"CommandStateSync"=""
+"Position"="Last"
+
